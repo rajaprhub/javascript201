@@ -6,3 +6,5 @@ Admin puma  : Add and Remove  products
 COFFEE HOUSE CE2 : add to Bucket list with Checkout
       https://cool-nougat-37b47b.netlify.app/
 
+MOVIE booking app : Omdbapi movie search
+   https://cosmic-pavlova-b1534c.netlify.app/
