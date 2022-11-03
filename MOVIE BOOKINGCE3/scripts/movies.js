@@ -14,7 +14,7 @@ let id ;
      let query  = document.getElementById("search").value ;
      
       try{
-        let res = await fetch(`http://www.omdbapi.com/?i=tt3896198&apikey=45fd81a8&s=${query}`)
+        let res = await fetch(`https://www.omdbapi.com/?i=tt3896198&apikey=45fd81a8&s=${query}`)
         let data = await res.json();
 
      if(data.Response == "True"){
