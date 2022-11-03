@@ -1,0 +1,24 @@
+
+#order-form{
+
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+    border: 1px solid gray;
+    width: 33%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+form{
+    width: 95%;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center; 
+   gap:10px;
+}
+form input{
+    width: 75%;  
+}
